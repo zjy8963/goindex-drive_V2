@@ -1,6 +1,6 @@
 This project aims to provide a better UI for Google's Drive function and allows to quickly index all your files. Cloudflare Workers allow you to write JavaScript which runs on all of Cloudflare's 150+ global data centers.
 
-![GoIndex Drive](https://github.com/CHEF-KOCH/goindex-drive/blob/master/.github/old%20code/Logo/go-drive-logo.gif?raw=true?raw=true)
+![GoIndex Drive](https://github.com/Yami-Studio/goindex-drive_V2/blob/master/.github/old%20code/Logo/go-drive-logo.gif?raw=true?raw=true)
 
 ## Table of Contents
 * [Table of Contents](#table-of-contents)
