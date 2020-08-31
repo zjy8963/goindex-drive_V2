@@ -230,7 +230,7 @@ This means your rate limit was reached (100k hits per day).
 ### Screenshot
 
 **Dark Theme**
-![Dark Theme](https://github.com/CHEF-KOCH/goindex-drive/blob/master/Screenshots/material-dark.png?raw=true)
+![Dark Theme](https://github.com/Yami-Studio/goindex-drive_V2/blob/master/Screenshots/material-dark.png?raw=true)
 
 
 ## Tutorial Guides for beginners
