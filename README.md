@@ -130,7 +130,7 @@ This project aims to provide a better UI for Google's Drive function and allows 
 **Now verify your current Worker**
 
 * Verify your eMail and go to `Workers`, press `Create a Worker`.
-* Now copy the content of the [index.js](https://github.com/CHEF-KOCH/goindex-drive/blob/master/goindex/go2index/index.js) to the script section.
+* Now copy the content of the [index.js](https://github.com/Yami-Studio/goindex-drive_V2/blob/master/goindex/go2index/index.js) to the script section.
 
 * Edit this object in the script with the details you generated above
 ```js
